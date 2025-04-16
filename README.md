@@ -1,7 +1,18 @@
+# 📊 Sales Analysis Dashboard (Microsoft Excel)
 
-# 📊 Sales Dashboard — Microsoft Excel Project
+This project is part of my self-learning journey to develop analytical skills using Microsoft Excel.  
+The dashboard was created to provide an interactive and informative overview of sales performance based on real-world business questions.
 
-This project is a **Sales Dashboard** created using **Microsoft Excel** to visualize and analyze sales data effectively. The dashboard provides clear insights into total sales, profit, quantity, and profit margin, along with interactive filtering features.
+---
+
+## 🎯 Project Objectives
+
+- Calculate key metrics such as Total Sales, Profit, Quantity, and Profit Margin.
+- Analyze monthly sales trends to identify growth patterns.
+- Visualize sales composition by segment.
+- Identify the Top 10 best-selling products based on total sales.
+- Display an informative product table including Category, Product Name, Sales, Profit, and Quantity.
+- Add slicers and filters for dynamic exploration of the data (by Month, Date, and Region).
 
 ---
 
@@ -18,22 +29,16 @@ This project is a **Sales Dashboard** created using **Microsoft Excel** to visua
 
 ---
 
-## ⚙️ **Tools Used**
+## 🛠 Tools Used
 
 - Microsoft Excel  
-- Pivot Table  
-- Data Visualization Charts  
-- Slicers for Interactive Filtering  
-- Conditional Formatting
+- PivotTable  
+- Power Pivot  
+- Data Visualization Charts
+- Slicer  
+- Formulas (including LOOKUP, IF, SUMIF, etc.)
 
 ---
-
-## 📈 **Objective**
-
-To design a dynamic and easy-to-read sales performance report for stakeholders. This dashboard helps track trends, identify top-performing products, and evaluate sales distribution across regions and customer segments.
-
----
-
 ## 🧠 **Key Insights**
 
 - Consumer segment contributes **50%** of total sales.
@@ -43,12 +48,22 @@ To design a dynamic and easy-to-read sales performance report for stakeholders. 
 
 ---
 
-## 🔍 **Why This Project?**
+## 📸 Dashboard Preview
 
-This project was created as part of my continuous learning and practice in **data analysis and visualization using Microsoft Excel**. It demonstrates my ability to process raw data, create interactive dashboards, and extract actionable insights.
+[![Screenshot 1](Screenshot_Sales_Analysis.png)](Screenshot_Sales_Analysis.png)
 
 ---
 
-## 📌 **About Me**
+## 📄 Files Included
 
-Aspiring Data Analyst with a strong interest in data visualization, data cleaning, and business intelligence. Skilled in Microsoft Excel, Power BI, Google Looker Studio, and committed to continuous growth.
+- [`Case_Study_1_Sales_Analysis.xlsx`](Case_Study_1_Sales_Analysis.xlsx) – Main dashboard file created in Microsoft Excel.
+
+---
+
+## 👩‍💻 About Me
+
+I'm Tya Dwi Rahayu, a Physics graduate pursuing a career in Data and IT.  
+I’m passionate about transforming data into meaningful insights through analysis, visualization, and hands-on projects.  
+Feel free to connect and collaborate!
+
+---
